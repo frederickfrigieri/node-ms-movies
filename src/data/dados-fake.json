@@ -1,0 +1,21 @@
+[{
+    titulo: "Os Vingadores - Guerra Infinita",
+    sinopse: "Os heróis mais poderosos da Marvel",
+    duracao: 120,
+    dataLancamento: ISODate("2018-05-01T00:00:00Z"),
+    categorias: ["Aventura", "Ação"]
+},
+{
+    titulo: "Os Vingadores - Era de Ultron",
+    sinopse: "Os heróis mais poderosos da Marvel",
+    duracao: 120,
+    dataLancamento: ISODate("2016-05-01T00:00:00Z"),
+    categorias: ["Aventura", "Ação"]
+},
+{
+    titulo: "Os Vingadores",
+    sinopse: "Os heróis mais poderosos da Marvel",
+    duracao: 120,
+    dataLancamento: ISODate("2014-05-01T00:00:00Z"),
+    categorias: ["Aventura", "Ação"]
+}]
